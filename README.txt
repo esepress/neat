@@ -1,6 +1,6 @@
 
 TITLE:   
-Neat - 100%  Fully Responsive Free HTML5 Bootstrap Template
+Neat - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
@@ -32,7 +32,7 @@ https://icomoon.io/app/
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
+ 
 animate.css
 http://daneden.me/animate
 
